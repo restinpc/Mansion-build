@@ -1,0 +1,1 @@
+git pull && start "" Mansion.exe -logFile log.txt
